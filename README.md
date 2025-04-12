@@ -1,6 +1,17 @@
 # ProjetoInicialAngular
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+A versão do angular utilizada: 19.2.6
+
+Este projeto foi gerado a partir do comando:
+* ng new --minimal -g ProjetoInicialAngular
+
+Foi utilizado também json-server
+* npm i json-server
+
+Para executar no window
+* npx json-server --watch produtos.json
+
+
 
 ## Development server
 
